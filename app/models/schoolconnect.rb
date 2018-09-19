@@ -1,0 +1,2 @@
+class Schoolconnect < ApplicationRecord
+end
